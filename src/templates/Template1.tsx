@@ -9,7 +9,7 @@ const Template1 = () => {
   const theme = getTheme("template1");
 
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900" style={{ 
+    <div className="min-h-screen bg-white text-gray-900" style={{ 
       '--primary': '#e85b0b',
       '--secondary': '#f97316',
       '--accent': '#fb923c',

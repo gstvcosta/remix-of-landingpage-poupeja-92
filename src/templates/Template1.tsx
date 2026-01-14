@@ -43,7 +43,7 @@ const Template1 = () => {
 
               <h2 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight animate-fade-in-up tracking-tight">
                 Controle suas finanças com
-                <span className="block mt-3 text-cyan-300 text-[1.15em] tracking-tighter font-extrabold">
+                <span className="block mt-3 text-gray-900 text-[1.15em] tracking-tighter font-extrabold">
                   inteligência e simplicidade
                 </span>
               </h2>
